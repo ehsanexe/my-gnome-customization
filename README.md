@@ -28,9 +28,11 @@ Open the extensions app and then mark the following extensions
   - Taskbar: Monitor Center
   - Change Show Application Icon to circle-outline-xxl.png
 ##### Style Tab
+  - App Icon Margin: 0
   - App Icon Padding: 8
   - Running Indicator Dashes
   - Running Indicator Unfocused Dot
   - Override Panel Theme Opacity
 
-![Screenshot from 2023-08-02 22-07-23](https://github.com/ehsanexe/my-gnome-customization/assets/57362198/afb90f2c-c23a-4821-87b4-dca9a68b77c8)
+![Screenshot from 2023-08-02 22-47-37](https://github.com/ehsanexe/my-gnome-customization/assets/57362198/e288c188-6756-456c-bcf6-0abd20e4e30e)
+![Screenshot from 2023-08-02 22-47-25](https://github.com/ehsanexe/my-gnome-customization/assets/57362198/34ed3f6b-8262-413c-9105-4c6a3c1e9499)
