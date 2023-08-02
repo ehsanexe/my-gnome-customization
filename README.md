@@ -20,3 +20,4 @@ style =>
 3. uuning indicator unfocused dot
 4. override panel theme opacity
 
+![Screenshot from 2023-08-02 22-07-23](https://github.com/ehsanexe/my-gnome-customization/assets/57362198/afb90f2c-c23a-4821-87b4-dca9a68b77c8)
