@@ -1,23 +1,36 @@
-# my-gnome-customization
+## My Gnome Customization
+This README.md file provides instructions for customizing the appearance and extensions of the Gnome desktop environment
 
-tweeks => Appearance
-1. legecy applications: Orchis-Dark
-2. icons: Reversal-Dark
-tweeks => Window Title Bars
-1. mark maximize and minimize
+### Downloads
+Download the following from repo
+- [Reversal icons](https://github.com/ehsanexe/my-gnome-customization/tree/main/.icons) or https://www.gnome-look.org/p/1340791
+- [Orchis gtk them](https://github.com/ehsanexe/my-gnome-customization/tree/main/.themes) or https://www.gnome-look.org/p/1357889
+- [circle-outline-xxl.png](https://github.com/ehsanexe/my-gnome-customization/blob/main/circle-outline-xxl.png)
 
-Extensions
-1. blur my shell
-2. dash to panel
+### Tweeks
+Copy the .icons and .themes file to Home directory and then open tweeks
 
-dash to panel
-position => 
-1. taskbar: monitor center
-2. show application icon to circle-outline-xxl.png
-style => 
-1. app icon padding 8
-2. ruuning indicator dashes
-3. uuning indicator unfocused dot
-4. override panel theme opacity
+#### Appearance:
+In the Appearance tab do the following change
+- Legacy Applications: Orchis-Dark
+- Icons: Reversal-Dark
+
+#### Window Title Bars:
+- Mark maximize and minimize buttons
+
+### Extensions:
+Open the extensions app and then mark the following extensions
+- Blur My Shell
+- Dash to Panel
+
+#### Dash to Panel Settings
+##### Position Tab
+  - Taskbar: Monitor Center
+  - Change Show Application Icon to circle-outline-xxl.png
+##### Style Tab
+  - App Icon Padding: 8
+  - Running Indicator Dashes
+  - Running Indicator Unfocused Dot
+  - Override Panel Theme Opacity
 
 ![Screenshot from 2023-08-02 22-07-23](https://github.com/ehsanexe/my-gnome-customization/assets/57362198/afb90f2c-c23a-4821-87b4-dca9a68b77c8)
