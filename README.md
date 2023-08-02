@@ -1,5 +1,5 @@
 ## My Gnome Customization
-This README.md file provides instructions for customizing the appearance and extensions of the Gnome desktop environment
+This README.md file provides instructions for customizing the appearance of the Gnome desktop environment
 
 ### Downloads
 Download the following from repo
